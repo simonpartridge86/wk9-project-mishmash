@@ -36,3 +36,4 @@
 * Every React component should have at least one test
 * Commit code every step of the code
 * Use Git branching and reviewing - review as a team during group sessions
+* Add clear comments to code
