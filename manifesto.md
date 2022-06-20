@@ -37,3 +37,4 @@
 * Commit code every step of the code
 * Use Git branching and reviewing - review as a team during group sessions
 * Add clear comments to code
+* Follow SoC guidelines for filenaming and structure
